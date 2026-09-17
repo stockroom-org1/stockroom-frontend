@@ -1,8 +1,7 @@
 # Stockroom Frontend 
-       
 A standalone warehouse inventory management SPA built with React 18, Vite 5, TypeScript 5, Tailwind CSS 3, TanStack Query v5, and React Router v6. 
 
-## Features
+## Features.  
 
 - Dashboard with stat cards and recent stock movement history
 - Product management (create, edit, delete) with category association
