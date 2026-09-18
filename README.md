@@ -70,4 +70,4 @@ Output is written to `dist/`. The included `Dockerfile` builds the app and serve
 docker build -t stockroom-frontend .
 docker run -p 8080:80 stockroom-frontend
 ```
-test new new feature 5
+test new new feature 6
