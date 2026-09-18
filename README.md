@@ -1,5 +1,5 @@
 # Stockroom Frontend 
-         
+          
 A standalone warehouse inventory management SPA built with React 18, Vite 5, TypeScript 5, Tailwind CSS 3, TanStack Query v5, and React Router v6. 
 
 ## Features
@@ -70,4 +70,4 @@ Output is written to `dist/`. The included `Dockerfile` builds the app and serve
 docker build -t stockroom-frontend .
 docker run -p 8080:80 stockroom-frontend
 ```
-test new new feature 5
+test new new feature 6
